@@ -26,7 +26,7 @@ function checkSnt(n)
 
     if (kiemTra === true){
         document.write(n + " là số nguyên tố <br/>");
-        // c = c + n;
+        c = c + n;
     }
 }
 
